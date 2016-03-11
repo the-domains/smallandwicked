@@ -1,19 +1,4 @@
-name: smallandwicked
-favicon: null
-layout_spectrum: 0.5098096104338765
-typography_spectrum: 0.6390227219089866
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#FF6700'
@@ -23,6 +8,11 @@ color:
     - '#004E98'
   brandStrength: 0.44670904078520834
   lightness: 0.25
-  saturation: 0.3125
   rhythmicContrast: 0.25
+  saturation: 0.3125
+cta: {}
+layout_spectrum: 0.967342
+name: smallandwicked
+opengraph: {}
 purpose: []
+typography_spectrum: 0.05518
